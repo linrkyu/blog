@@ -1,5 +1,5 @@
-# Headline
+# ReadMe
 
-> An awesome project.
+> 关于blog
 
-中文字数统计
+1.文章
