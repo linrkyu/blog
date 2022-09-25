@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_navbar.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_navbar.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_navbar.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_navbar.md"
+                "file": "README.md"
               }
             }
           }
@@ -131,9 +131,9 @@
   "active": "0eecdb3f55792d41",
   "lastOpenFiles": [
     "_sidebar.md",
-    "README.md",
-    "_coverpage.md",
     "_navbar.md",
+    "_coverpage.md",
+    "README.md",
     "workpage/xm/周一：部署节前工作安排 @{2022-09-26}.md",
     "workpage/xm/六角亭-市长汇报PPT.md",
     "workpage/xm/干休所招标所.md",
