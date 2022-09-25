@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
-* # Blog Catalog
+* # Blog Catalog（更新到2022/9/22）
 
   * # 数字化发展
       * [数字化发展ReadMe](/数字化发展/数字化发展ReadMe.md)
