@@ -1,8 +1,9 @@
 <!-- _sidebar.md -->
 
-* Blog Catalog
+* # Blog Catalog
+
   * # 数字化发展
-      * [数字谢谢谢谢化发展ReadMe](/ProjectDocs/Typora+Docsify快速入门.md)
-  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
-* Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
+      * [数字化发展ReadMe](/数字化发展/数字化发展ReadMe.md)
+  * ## [研发思想]
+	  * workpage
+		  * [0.看板](wrokpage/0看板.md)
