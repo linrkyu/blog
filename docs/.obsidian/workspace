@@ -7,11 +7,9 @@
         "id": "6d5fa49dd96221f7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "_sidebar.md",
-            "mode": "source",
-            "source": false
+            "file": "workpage/xm/0.看板.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "workpage/xm/0.看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "workpage/xm/0.看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "workpage/xm/0.看板.md"
               }
             }
           }
@@ -130,15 +128,15 @@
   },
   "active": "6d5fa49dd96221f7",
   "lastOpenFiles": [
+    "研发思想/研发管理法.md",
+    "workpage/xm/0.看板.md",
+    "workpage/xm/干休所招标所.md",
+    "README.md",
+    "().md",
+    "_sidebar.md",
     "_navbar.md",
     "_coverpage.md",
-    "README.md",
-    "workpage/xm/干休所招标所.md",
     "workpage/xm/六角亭-市长汇报PPT.md",
-    "workpage/xm/区平台，监督部分需求沟通内容.md",
-    "zh-cn/quickstart.md",
-    "研发思想/研发管理法.md",
-    "_sidebar.md",
-    "().md"
+    "workpage/xm/区平台，监督部分需求沟通内容.md"
   ]
 }
