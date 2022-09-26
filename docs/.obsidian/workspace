@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_navbar.md",
+            "file": "研发思想/研发管理法.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_navbar.md",
+                "file": "研发思想/研发管理法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_navbar.md",
+                "file": "研发思想/研发管理法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_navbar.md"
+                "file": "研发思想/研发管理法.md"
               }
             }
           }
@@ -132,13 +132,13 @@
   "lastOpenFiles": [
     "workpage/xm/区平台，监督部分需求沟通内容.md",
     "workpage/xm/六角亭-市长汇报PPT.md",
-    "workpage/xm/干休所招标所.md",
     "workpage/xm/0.看板.md",
+    "workpage/xm/周一：部署节前工作安排 @{2022-09-26}.md",
+    "workpage/xm/干休所招标所.md",
+    "_navbar.md",
     "数字化发展/数字化发展.md",
     "数字化发展/index.md",
     "研发思想/研发管理法.md",
-    "研发思想/第二部.md",
-    "_sidebar.md",
-    "workpage/xm/周一：部署节前工作安排 @{2022-09-26}.md"
+    "研发思想/第二部.md"
   ]
 }
